@@ -1,0 +1,25 @@
+/* RESET */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0; }
+
+
+/* MENU */
+.hip-to-be-square {
+  border-radius: 0; }
+
+
+/* LAYOUT */
+h1 {
+  margin-bottom: 30px; }
+h3 {
+  margin-bottom: 15px; }
+.card {
+  margin: 10px;
+  padding: 5px 15px; }
+
+
+/* THEME */
+.isabelline { background-color: #EAEAEA; }
+.pastel-blue { background-color: #B7CECE; }
+.tulip { background-color: #FF8E8D; }
